@@ -3,7 +3,7 @@ About r-rsnns
 
 Home: https://github.com/cbergmeir/RSNNS
 
-Package license: LGPL-2
+Package license: LGPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rsnns-feedstock/blob/master/LICENSE.txt)
 
