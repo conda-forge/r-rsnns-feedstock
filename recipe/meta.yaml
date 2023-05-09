@@ -1,4 +1,4 @@
-{% set version = "0.4-15" %}
+{% set version = "0.4-16" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/RSNNS_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/RSNNS/RSNNS_{{ version }}.tar.gz
-  sha256: 4a4286444f50b28fb6294b8b49250fa6c43c8fddf2ee0550a3ae59a4212ec1b3
+  sha256: 1a215fdb04a39e94eb3c21a9e66dff76f089d3310cb585cdfba5a66253a232d8
 
 build:
   merge_build_host: true  # [win]

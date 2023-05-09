@@ -1,11 +1,22 @@
+About r-rsnns-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rsnns-feedstock/blob/main/LICENSE.txt)
+
 About r-rsnns
-=============
+-------------
 
 Home: https://github.com/cbergmeir/RSNNS
 
 Package license: LGPL-2.0-or-later
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rsnns-feedstock/blob/main/LICENSE.txt)
+Summary: The Stuttgart Neural Network Simulator (SNNS) is a library containing many standard implementations of neural networks. This package wraps the SNNS functionality to make it available from within R. Using the 'RSNNS' low-level interface, all of the algorithmic functionality and flexibility of SNNS can be accessed. Furthermore, the package contains a convenient high-level interface, so that the most common neural network topologies and learning algorithms integrate seamlessly into R.
+About r-rsnns
+-------------
+
+Home: https://github.com/cbergmeir/RSNNS
+
+Package license: LGPL-2.0-or-later
 
 Summary: The Stuttgart Neural Network Simulator (SNNS) is a library containing many standard implementations of neural networks. This package wraps the SNNS functionality to make it available from within R. Using the 'RSNNS' low-level interface, all of the algorithmic functionality and flexibility of SNNS can be accessed. Furthermore, the package contains a convenient high-level interface, so that the most common neural network topologies and learning algorithms integrate seamlessly into R.
 
